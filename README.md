@@ -1,5 +1,5 @@
 # et-weather
-### By: Natnael [See on Th Web](https://etweather.netlify.app/)
+### By: Natnael [See on The Web](https://etweather.netlify.app/)
 ## Project setup
 ```
 npm install
