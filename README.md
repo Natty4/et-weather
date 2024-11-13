@@ -1,5 +1,6 @@
 # 🌦️ Weather App 🌤️ 
-[🌍 **View the live app here**](https://etweather.netlify.app)
+🌍 [**View the live app here**](https://etweather.netlify.app)
+
 A simple and intuitive weather application built with **Vue.js** that allows users to search for current weather information by city name. The app displays key weather data including temperature, time, city and country, and sky status (e.g., Clear, Cloudy, Fog, etc.). It also dynamically changes the background color based on the weather conditions to enhance the user experience.
 
 ## Features
